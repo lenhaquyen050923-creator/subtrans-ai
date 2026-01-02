@@ -1,0 +1,5 @@
+{
+  "name": "SubTrans AI - Professional SRT Translator",
+  "description": "A world-class subtitle translation tool powered by Gemini AI. Translate SRT files accurately while preserving timestamps and formatting, optimized for films and documentaries.",
+  "requestFramePermissions": []
+}
